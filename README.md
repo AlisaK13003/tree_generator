@@ -1,7 +1,7 @@
 # Tree Generator Project
 ## Overview
 
-This tree generator project allows users to create stylized trees with customizable leaves, fruits, and flowers utilizing the Turtle graphics library in Python. The latest version (v.02) represents a substantial improvement over the initial code (v.01), focusing on code organization, readability, and user interaction.
+This tree generator project allows users to create stylized trees with customizable leaves, fruits, and flowers utilizing the Turtle graphics library in Python. The latest version (v2.py) represents a substantial improvement over the initial code (v1.py), focusing on code organization, readability, and user interaction.
 
 ## Features
 #### 1. Drawing the Trunk
