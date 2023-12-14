@@ -75,7 +75,12 @@ mediumseagreen </br>
 - Ensure `turtle_colors.txt` is in the same path as `v2.py`
 
 ---
+## Acknowledgments
 
-### License
+Special thanks to my peer Iber for their invaluable assistance in refining the code architecture and more. For more of their work, visit their GitHub [here](https://github.com/IberAI/IberAI).
+
+---
+
+## License
 
 This project is licensed under the [MIT License](LICENSE).
