@@ -73,6 +73,7 @@ mediumseagreen </br>
 - The program allows users to draw multiple trees by repeatedly prompting them to input tree parameters.
 - To exit the program, simply enter 'n' or 'q' when prompted to draw a tree.
 - Ensure `turtle_colors.txt` is in the same path as `v2.py`
+- **UNFINISHED PROJECT**- useable, but issues with user input for "amount" of flowers/fruits.
 
 ---
 ## Acknowledgments
